@@ -8,4 +8,4 @@ This repository contains Jupyter notebooks used for the online courses "Optimiza
 
 ## Author
 
-[Michel Bierlaire](https://people.epfl.ch/michel.bierlaire), [Ecole Polytechnique Fédérale de Lausanne, Switzerland]()
+[Michel Bierlaire](https://people.epfl.ch/michel.bierlaire), [Ecole Polytechnique Fédérale de Lausanne, Switzerland](https://www.epfl.ch)
